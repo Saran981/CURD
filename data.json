@@ -1,0 +1,30 @@
+[
+    {
+        "id":1,
+        "name":"Saranya",
+        "email":"Saran@gamil.com",
+        "phone":"7856453457",
+        "location":"Chennai"
+    },
+    {
+        "id":2,
+        "name":"Saran",
+        "email":"Saran_1@gamil.com",
+        "phone":"7456453457",
+        "location":"Chennai"
+    },
+    {
+        "id":3,
+        "name":"Sara",
+        "email":"Sara@gamil.com",
+        "phone":"776453457",
+        "location":"Mylapore"
+    },
+    {
+        "id":4,
+        "name":"Priya",
+        "email":"Priya@gamil.com",
+        "phone":"7856453457",
+        "location":"Chennai"
+    }
+]
